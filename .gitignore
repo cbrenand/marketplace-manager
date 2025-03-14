@@ -1,0 +1,7 @@
+# Ignorar arquivos do Python
+__pycache__/
+*.pyc
+venv/
+
+# Ignorar arquivos do Node.js
+node_modules/
